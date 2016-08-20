@@ -14,6 +14,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise'
 gem 'hirb'
 gem 'bootstrap-sass'
+gem 'acts_as_votable'
 
 
 group :development, :test do
