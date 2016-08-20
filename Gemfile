@@ -15,6 +15,10 @@ gem 'devise'
 gem 'hirb'
 gem 'bootstrap-sass'
 gem 'acts_as_votable'
+gem 'simple_form'
+gem 'record_tag_helper', '~> 1.0'
+
+
 
 
 group :development, :test do
